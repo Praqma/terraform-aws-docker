@@ -1,6 +1,6 @@
----
-maintainer: alexsedova
----
+**Maintainers**
+* alexsedova
+* [Dzhuneyt](https://github.com/Dzhuneyt)
 
 # Terraform + AWS + Docker Swarm setup
 

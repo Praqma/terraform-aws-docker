@@ -1,3 +1,4 @@
-output "master.ip" {
-  value = "${aws_instance.master.public_ip}"
+output "master_ip" {
+  value = aws_instance.swarm_master.public_ip
 }
+

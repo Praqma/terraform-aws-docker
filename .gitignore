@@ -2,3 +2,13 @@ ssh/
 *.pem
 *.tfstate.backup
 *.tfstate
+
+# Don't version control the actual SSH keys
+id_rsa
+id_rsa.pub
+
+# Terraform plugins
+.terraform
+
+# PHPStorm configs
+.idea
